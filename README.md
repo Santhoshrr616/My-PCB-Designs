@@ -23,9 +23,9 @@ I am an Electrical and Electronics Engineering student interested in PCB design,
 
 | No. | Project                    | Status      |
 | --- | -------------------------- | ----------- |
-| 01  | Stop Light Controller PCB  | In Progress |
-| 02  | 12V to 5V Buck Converter   | Planned     |
-| 03  | Water Level Controller PCB | Planned     |
+| 01  | Stop Light Controller PCB  | COMPLETED   |
+| 02  | Mini Inverter              | COMPLETED   |
+
 
 ## What You Will Find
 
